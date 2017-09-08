@@ -38,7 +38,6 @@ node_modules/
 
 # RNX JSBUNDLE ignore
 bundle/
-dist/
 
 # eslint-cache
 .eslintcache
