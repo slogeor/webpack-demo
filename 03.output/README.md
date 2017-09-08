@@ -53,4 +53,4 @@ const config = {
 
 ### 参考文件
 
-* (https://doc.webpack-china.org/concepts/output)[https://doc.webpack-china.org/concepts/output]
+* [https://doc.webpack-china.org/concepts/output](https://doc.webpack-china.org/concepts/output)

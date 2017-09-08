@@ -33,3 +33,7 @@ const config = {
   }
 }
 ```
+
+### 参考文献
+
+[https://doc.webpack-china.org/concepts/entry-points](https://doc.webpack-china.org/concepts/entry-points)
