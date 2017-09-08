@@ -50,3 +50,7 @@ npm install --save-dev express webpack-dev-middleware
 * server.js
 
 能够实现代码修改，webpack 自动编译但浏览器`不会能够自动刷新`。
+
+### 参考文献
+
+[https://doc.webpack-china.org/guides/development](https://doc.webpack-china.org/guides/development)

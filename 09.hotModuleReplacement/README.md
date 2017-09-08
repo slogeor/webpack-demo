@@ -32,3 +32,6 @@ module.exports = {
   }
 };
 ```
+### 参考文献
+
+[https://doc.webpack-china.org/guides/hot-module-replacement](https://doc.webpack-china.org/guides/hot-module-replacement)

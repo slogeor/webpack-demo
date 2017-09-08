@@ -158,6 +158,6 @@ npm install --save-dev csv-loader xml-loader
 }
 ```
 
+### 参考文献
 
-
-
+[https://doc.webpack-china.org/guides/asset-management](https://doc.webpack-china.org/guides/asset-management)

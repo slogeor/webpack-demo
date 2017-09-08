@@ -35,3 +35,7 @@ plugins: [
   })
 ]
 ```
+
+### 参考文献
+
+[https://doc.webpack-china.org/guides/output-management](https://doc.webpack-china.org/guides/output-management)
