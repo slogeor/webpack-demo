@@ -39,7 +39,7 @@ node_modules/
 # RNX JSBUNDLE ignore
 bundle/
 dist/
-
+00.demo/
 # eslint-cache
 .eslintcache
 .vscode
